@@ -34,22 +34,6 @@ To analyze how shifts in market sentiment (Fear, Greed, etc.) influence trading 
   - Trade count per sentiment
   - Trader-level performance per sentiment
 
-## Visual Insights
-
-### Trade Volume per Sentiment
-
-![Trade Volume](./download.png)
-
-- Highest trading volume observed on "Fear" days
-- Lowest volume on "Extreme Fear" days
-
-### Average PnL per Sentiment
-
-![Average PnL](./download%20(1).png)
-
-- Traders were most profitable on "Extreme Greed" days
-- Lowest average profitability observed on "Extreme Fear" and "Neutral" days
-
 ## Trader-Specific Insights
 
 - Identified top-performing traders under different sentiment states
